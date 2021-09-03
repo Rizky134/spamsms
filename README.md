@@ -10,9 +10,9 @@
 
  • pkg install git
 
-# buat run nya
  • git clone https://github.com/Rizky134/spamsms
 
+# buat run nya
  • cd spamsms
 
  • python3 spam.py
