@@ -1,4 +1,4 @@
-# SC spam sms dan telpon simple
+# SC spam sms dan telpon simple 2022
 # install bahan
  • pkg install python
 
